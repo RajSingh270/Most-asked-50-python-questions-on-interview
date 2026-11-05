@@ -25,7 +25,6 @@ bash
 jupyter notebook
 Prefer not to install anything? Upload any notebook to Google Colab and run it in your browser.
 📖 Notebook Index
-#	Notebook	#	Notebook
 1	Q1	26	Q26
 2	Q2	27	Q27
 3	Q3	28	🚧 Coming soon
